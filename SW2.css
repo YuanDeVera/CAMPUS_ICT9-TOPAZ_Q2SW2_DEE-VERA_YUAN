@@ -1,0 +1,30 @@
+table {
+	width: 700px;
+}
+h1 {
+	color: red;
+	text-shadow: 6px 5px 4px darkred;
+}
+table, th, td {
+	border: 1px solid
+}
+th {
+	text-decoration: underline;
+}
+h1 {
+	border-style: ridge;
+	border-width: 30px;
+	height: 40px;
+	margin: right;
+	border-color: orangered;
+}
+table {
+	border-width: 30px;
+	border-color: blue;
+	border-style: double;
+}
+td {
+	border-width: 20px;
+	border-style: groove;
+}
+
